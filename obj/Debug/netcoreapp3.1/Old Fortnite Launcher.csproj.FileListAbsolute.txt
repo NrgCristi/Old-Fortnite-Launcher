@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Old Fortnite Launcher\bin\Debug\netcoreapp3.1\Old Fortnite Launcher.exe
+C:\Users\User\source\repos\Old Fortnite Launcher\bin\Debug\netcoreapp3.1\Old Fortnite Launcher.deps.json
+C:\Users\User\source\repos\Old Fortnite Launcher\bin\Debug\netcoreapp3.1\Old Fortnite Launcher.runtimeconfig.json
+C:\Users\User\source\repos\Old Fortnite Launcher\bin\Debug\netcoreapp3.1\Old Fortnite Launcher.runtimeconfig.dev.json
+C:\Users\User\source\repos\Old Fortnite Launcher\bin\Debug\netcoreapp3.1\Old Fortnite Launcher.dll
+C:\Users\User\source\repos\Old Fortnite Launcher\bin\Debug\netcoreapp3.1\Old Fortnite Launcher.pdb
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher_MarkupCompile.cache
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher_MarkupCompile.lref
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher.g.resources
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher.AssemblyInfo.cs
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher.dll
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher.pdb
+C:\Users\User\source\repos\Old Fortnite Launcher\obj\Debug\netcoreapp3.1\Old Fortnite Launcher.genruntimeconfig.cache
